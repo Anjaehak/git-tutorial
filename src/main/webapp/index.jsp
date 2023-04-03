@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
- ㅎㅇㅎㅇ
+ <h1>ㅎㅇㅎㅇ</h1>
+ 	<a href="">로그인</a>
+ 	<a href="">가입</a>
 </body>
 </html>
